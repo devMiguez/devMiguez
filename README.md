@@ -32,5 +32,5 @@
    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> numero: +5524988181676
 </div><br>
 
-<p>Sou apaixonado em aprender coisas novas, sempre procurando melhorar!! Curso Ciência da Computação na Estácio de Petrópolis-Rj. E me vejo daqui a uns anos como desenvolvedor de software.🔥🥰</p>
+<p>Sou apaixonado em aprender coisas novas, sempre procurando melhorar!! Curso Ciência da Computação na Estácio. E me vejo daqui a uns anos como desenvolvedor de software.🔥🥰</p>
 <br>
