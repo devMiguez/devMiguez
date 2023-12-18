@@ -2,7 +2,7 @@
 <hr/>
 
 [![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_joaomiguez_/)
-[![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/joão-vitor-miguez-51a38527a/)
+[![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-miguez-51a38527a/)
 [![Gmail badge](https://img.shields.io/badge/Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:joaovmiguez@gmail.com)](mailto:joaovmiguez@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=devMiguez&show_icons=true&theme=radical" alt="devMiguez Github Status" height="250px">
