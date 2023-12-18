@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=devMiguez&show_icons=true&theme=radical" alt="devMiguez Github Status" height="250px">
 <br>
 
-### I'm João Vitor Miguez 👋
+### I'm João Vitor Miguez👋 🇧🇷
 <div style="display inline-block">
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -27,8 +27,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devMiguez&theme=blue-white" alt="Miguez top languages" height="250px" >
 </p>
-
-
 
 
 ## Technologies I'm learning
