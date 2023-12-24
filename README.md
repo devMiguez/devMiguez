@@ -40,7 +40,7 @@
 <br>
 <div align="center">
    <h4>
-      I'm passionate about learning new things and I'am always eager to improve!<br>
+      I'm passionate about learning new things and I'am always looking to improve!<br>
    </h4>
    <h4>
       In a few years, I envision myself as a software developer. 🔥🥰
