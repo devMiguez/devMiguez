@@ -43,7 +43,7 @@
       I'm passionate about learning new things and I'am always looking to improve!<br>
    </h4>
    <h4>
-      In a few years, I envision myself as a software developer. 🔥🥰
+      In a few years, I see myself as a software developer. 🔥🥰
    </h4>
 </div>
 <br>
