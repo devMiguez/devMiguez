@@ -21,7 +21,7 @@
 - 🎓 Computer Science Student (3° period) @[Estácio](https://estacio.br/#!)<br>
 - 📚 Complete Java Spring course (6 months) @[Senai](https://firjansenai.com.br)<br>
 - 📚 Complete Front-end course - HTML, CSS, JAVASCRIPT AND REACTJS (3 months) @[Senai](https://firjansenai.com.br)<br>
-- 🌐 Passionate about web development<br>
+- 🌐 Passionate about development<br>
 - 💡 Love learning new technologies
 
 <p align="center">
